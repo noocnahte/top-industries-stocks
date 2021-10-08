@@ -5,3 +5,4 @@ This script gathers all stock tickers from Yahoo Finance that have over a specif
 - Python
 - Jupyter Notebook
 - Modules: BeautifulSoup, Requests, Pandas, Selenium, NumPy
+- Google Chrome and Chrome Webdriver
